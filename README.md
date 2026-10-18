@@ -48,7 +48,7 @@ For the baseline option:
 
 - Black-Scholes call price: $10.4506
 - Binomial tree price (500 steps): $10.4466
-- Monte Carlo price (500,000 simulations): $10.4501
+- Monte Carlo price (500,000 simulations): $10.4500
 
 The binomial and Monte Carlo approaches converged closely to the analytical
 Black-Scholes benchmark.
